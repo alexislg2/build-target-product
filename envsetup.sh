@@ -1,3 +1,5 @@
+alias make='make-3.82'
+
 function hmm() {
 cat <<EOF
 Invoke ". build/envsetup.sh" from your shell to add the following functions to your environment:
