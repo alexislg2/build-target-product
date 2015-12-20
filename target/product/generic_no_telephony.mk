@@ -29,6 +29,7 @@ PRODUCT_PACKAGES := \
     LatinIME \
     OneTimeInitializer \
     PrintSpooler \
+    Provision \
     QuickSearchBox \
     Settings \
     SystemUI \
